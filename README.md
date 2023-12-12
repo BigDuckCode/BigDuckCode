@@ -1,4 +1,4 @@
-<h1 align="center">What's up dog 👋, I'm Aiden Diaz</h1>
+<h1 align="center">Hey 👋, I'm Aiden Diaz</h1>
 <h3 align="center">A Full-Time Student with Interested in Coding</h3>
 
 - 🔭 I’m currently working on [Replit Java Platformer](https://replit.com/@AidenDiaz3/Awesome-Platformer-Thats-Awesome?v=1)
