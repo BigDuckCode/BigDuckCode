@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Replit Java Platformer](https://replit.com/@AidenDiaz3/Awesome-Platformer-Thats-Awesome?v=1)
 
-- 🌱 I’m currently learning **Lua and Minecraft Moding using Java**
+- 🌱 I’m currently learning **Minecraft Modding using Java**
 
 - ⚡ Fun fact **I'm gonna make a famous game one day**
 
