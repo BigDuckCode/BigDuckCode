@@ -1,11 +1,9 @@
 <h1 align="center">Hey 👋, I'm Aiden Diaz</h1>
 <h3 align="center">A Full-Time Student Interested in Coding</h3>
 
-- 🔭 I’m currently working on a [Unity 2D Game]
+- 🔭 I’m currently working on a [Financial Tracker]
 
-- 🌱 I’m currently learning **Minecraft Modding using Java**
-
-- ⚡ Fun fact **I'm gonna make a famous game one day**
+- 🌱 I’m currently learning **C# and HTML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +16,6 @@
 
 
 List of future projects:
+**- Learning .NET Frameworks**
+**- Building a study app**
 **- Unity RTS Game**
-**- Minecraft Item Mod**
-**- Learning Lua**
