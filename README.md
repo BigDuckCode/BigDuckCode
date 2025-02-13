@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Aiden Diaz</h1>
-<h3 align="center">A Full-Time Student Interested in Coding</h3>
+<h3 align="center">Full-Time Student studying Computer Science at KSU</h3>
 
 - 🔭 I’m currently working on a [Financial Tracker]
 
-- 🌱 I’m currently learning **C# and HTML**
+- 🌱 I’m currently learning **C# and C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,4 +18,4 @@
 List of future projects:
 **- Learning .NET Frameworks**
 **- Building a study app**
-**- Unity RTS Game**
+**- Creating Video Game Plugins**
